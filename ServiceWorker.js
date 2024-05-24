@@ -1,9 +1,9 @@
 const cacheName = "ASME.MEB.SayiPiramidi-MEB - Sayı Piramidi-1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/28- Sayı Piramidi.loader.js",
+    "Build/28- Sayı Piramidi.framework.js",
+    "Build/28- Sayı Piramidi.data",
+    "Build/28- Sayı Piramidi.wasm",
     "TemplateData/style.css"
 
 ];
